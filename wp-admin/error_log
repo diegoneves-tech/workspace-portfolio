@@ -1,0 +1,84 @@
+[05-May-2020 20:36:28 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home2/diegon08/public_html/wp-content/plugins/ocean-extra/includes/panel/classes/importers/class-settings-importer.php on line 28
+[05-May-2020 20:38:37 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/diegon08/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[05-May-2020 21:45:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/diegon08/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[05-May-2020 21:45:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/diegon08/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[05-May-2020 22:43:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/diegon08/public_html/wp-includes/class-wp-image-editor-imagick.php on line 363
+[05-May-2020 22:43:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/diegon08/public_html/wp-includes/class-wp-image-editor-imagick.php on line 363
+[12-May-2020 20:45:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[12-May-2020 20:45:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[12-May-2020 21:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[12-May-2020 21:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[13-May-2020 02:53:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[13-May-2020 19:09:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[13-May-2020 19:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[13-May-2020 19:11:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[13-May-2020 19:11:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[13-May-2020 19:18:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[13-May-2020 19:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[13-May-2020 19:30:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
+[14-May-2020 03:46:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_https_supports() in /home2/diegon08/public_html/wp-admin/includes/dashboard.php:1683
+Stack trace:
+#0 /home2/diegon08/public_html/wp-admin/includes/dashboard.php(27): wp_check_browser_version()
+#1 /home2/diegon08/public_html/wp-admin/index.php(15): wp_dashboard_setup()
+#2 {main}
+  thrown in /home2/diegon08/public_html/wp-admin/includes/dashboard.php on line 1683
